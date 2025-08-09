@@ -1,0 +1,15 @@
+curso prevision_2026
+administracion 1905
+arquitectura_y_urbanismo 1896
+artes_escenicas 1920
+bioinformatica 2302
+bioquimica 2090
+ciencia_e_ingenieria_de_materiales 2010
+ciencia_tecnologia_e_innovacion 1960
+ciencias_de_la_salud 1730
+ciencias_odontologicas 2405
+diseno 1900
+ingenieria_civil 1920
+ingenieria_de_software 1890
+filosofia 1903
+gestion_de_la_informacion_y_del_conocimiento 1855
